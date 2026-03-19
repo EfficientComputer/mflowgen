@@ -104,7 +104,6 @@ setup(
   #
 
   include_package_data = True,
-  setup_requires = [ 'setuptools_scm' ], # include any files that git sees
 
   # Executable scripts
 
